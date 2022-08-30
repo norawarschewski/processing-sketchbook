@@ -1,5 +1,7 @@
-# GitHub readme
+# Wave Figures
 
-# Title
+## Bauhaus
+
+## Code
 
 Description
