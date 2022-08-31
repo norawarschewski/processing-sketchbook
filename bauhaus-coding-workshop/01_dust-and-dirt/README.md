@@ -1,3 +1,0 @@
-# Dust and Dirt
-
-Description
